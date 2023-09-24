@@ -14,8 +14,8 @@ int main() {
     return 0;
 }
 
-// output
 // if the value of n is 5
+// output will be
 // *
 // **
 // ***
